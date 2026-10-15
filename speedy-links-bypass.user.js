@@ -10,8 +10,6 @@
 // @grant        none
 // @run-at       document-start
 // @license      MIT
-// @downloadURL https://update.greasyfork.org/scripts/600373/Speedy-Links%20Full%20Bypass.user.js
-// @updateURL https://update.greasyfork.org/scripts/600373/Speedy-Links%20Full%20Bypass.meta.js
 // ==/UserScript==
 
 const originalFetch = window.fetch;
